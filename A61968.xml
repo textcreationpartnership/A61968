@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pastoral poem upon the discovery of a late horrid conspiracy against the sacred person of William III. King of England By the honourable E. Howard, of Suffolk.</title>
+            <author>Suffolk, Edward Howard, Earl of, 1672-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61968</idno>
+            <idno type="STC">Wing S6159A</idno>
+            <idno type="STC">ESTC R222119</idno>
+            <idno type="EEBO-CITATION">99833347</idno>
+            <idno type="PROQUEST">99833347</idno>
+            <idno type="VID">37823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37823)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2064:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pastoral poem upon the discovery of a late horrid conspiracy against the sacred person of William III. King of England By the honourable E. Howard, of Suffolk.</title>
+                  <author>Suffolk, Edward Howard, Earl of, 1672-1731.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Baldwin near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With advertisements on the verso of the title page and at the foot of p. 12.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Pastoral poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37823:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 101 -->
+            <p>A <hi>Paſtoral Poem</hi> UPON THE DISCOVERY Of a Late Horrid Conſpiracy Againſt the SACRED PERSON OF WILLIAM III. KING of <hi>ENGLAND.</hi>
+            </p>
+            <p>By the Honourable <hi>E. HOWARD,</hi> of <hi>Suffolk.</hi>
+            </p>
+            <q>
+               <l>Quam ſeſe ore ferens! quam forti pectore &amp; Armis!</l>
+               <l>Credo equidem (nec vana fides) genus eſſe Deorum.</l>
+               <bibl>Virg. Aen. Lib. 4.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Baldwin</hi> near the <hi>Oxford-Arms</hi> in <hi>War<g ref="char:EOLhyphen"/>wick-Lane.</hi> 1696.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37823:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <head>Advertiſement to the Reader.</head>
+            <p>
+               <hi>A</hi> Repulſe to Virtuous Modeſty is as unpleaſant, as too much Violence to the Bluſhes of a Tender Virgin. To blaſt a Poet in the Bloſſom, had there not been ſome extraordinary Life and Heat in the Root, were enough to destroy all the latter Fruits of his Muſe. And verily, when I ſaw lying neglected upon the cold Stall, my Eſſay upon Paſtoral, as alſo an Elegy on the Death of the late Bleſſed Queen; I was not a little concern'd at the hard <g ref="char:V">Ʋ</g>ſage I met with from the World; and that I, who had endeavour'd in ſome meaſure to gratifie Mankind, ſhould find no more favour from them. But when I perceiv'd all this while I was taken for another Perſon, it obliged me to take the firſt Opportunity of ap<g ref="char:EOLhyphen"/>pearing again in Print, and to distinguiſh my ſelf from my Name-ſake after the manner I have done in the Title-Page. So that ſince in this matter the World has laboured under a miſtake, I hope I ſhall not ſuffer in my Reputation, upon the account of another man. For indeed (in a word) when I write like my Name-ſake, I am willing (but not before) to undergo the ſame Condemnation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pastoral_poem">
+            <pb n="3" facs="tcp:37823:2"/>
+            <!-- PDF PAGE 102 -->
+            <head>THE <hi>Song of Menalcas,</hi> A PASTORAL.</head>
+            <stage>
+               <hi>Daphnis</hi> perceiving <hi>Menalcas</hi> to be very Melancholy, ſolicites the Swain to let him know the cauſe. After ſome little Diſcourſe, <hi>Menalcas</hi> tells him there was a horrid Deſign laid againſt their Flocks, and that the Chief of the Shepherds was to have been Slain.</stage>
+            <stage>
+               <hi>Daphnis</hi> and <hi>Menalcas.</hi>
+            </stage>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>
+                  <hi>MEnalcas,</hi> ſay, what is it thee invites,</l>
+               <l>Thus to prolong with care, the tedious Nights?</l>
+               <l>What mean theſe doubts and fears within thy breaſt?</l>
+               <l>Why ſo diſturb'd? and why ſo void of reſt?</l>
+               <lg>
+                  <pb n="4" facs="tcp:37823:3"/>
+                  <!-- PDF PAGE 103 -->
+                  <l>Thou who at <hi>Comus</hi> Feaſt, 'mongſt all the throng,</l>
+                  <l>Appear'd ſo gay, ſo beautiful and young,</l>
+                  <l>Charming each Nymph with thy mellifluous tongue.</l>
+               </lg>
+               <l>Say now, whence comes the cauſe of all this grief?</l>
+               <l>Unfold your mind, and you may meet relief;</l>
+               <l>Thy throbs and ſighs declare it to be great,</l>
+               <l>Therefore in words, to me, your thoughts repeat.</l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <l>Indulgent Swain, ſhou'd I to thee impart,</l>
+               <l>The torrent of my Wo, and why my Heart</l>
+               <l>Thus troubled is, (altho thou doeſt excel</l>
+               <l>In all that's good, like whom few Pipe ſo well)</l>
+               <l>A ſinking terror, wou'd thy Limbs o're-ſpread,</l>
+               <l>And thou, to me, would'ſt ſeem, like one that's Dead.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Ah me! ſome ſad miſchance, hath ſure befel</l>
+               <l>Thee, or thy Flocks, but which I cannot tell.</l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <lg>
+                  <l>Fond Swain! look how the pretty Kids do play,</l>
+                  <l>How merrily they dance the time away,</l>
+                  <l>To whom the Night's as pleaſant as the Day.</l>
+               </lg>
+               <l>Lo! Bulls and Heifers, wanton midſt the Boughs,</l>
+               <l>Where Swains, with Nymphs, perform their Mar<g ref="char:EOLhyphen"/>riage Vows.</l>
+               <lg>
+                  <pb n="5" facs="tcp:37823:3"/>
+                  <!-- PDF PAGE 103 -->
+                  <l>Th' alluring Ewes, with ſportive Rams do rove,</l>
+                  <l>Paſſing from ſhade to ſhade, and Grove to Grove,</l>
+                  <l>Where they promiſcuouſly do joyn in Love.</l>
+               </lg>
+               <l>Behold how all the Vales and Fields do ſmile,</l>
+               <l>Pleas'd with the Joy and Glory of the Iſle.</l>
+               <l>Yet ah! a Race of Men more cruel far,</l>
+               <l>Than the fierce <hi>Scythians,</hi> who delight in War,</l>
+               <l>Againſt our Flocks a <hi>dire Deſign</hi> have laid,</l>
+               <l>And we by them had like t'have been betray'd:</l>
+               <l>For now the Gods our Shepherdeſs have ta'ne,</l>
+               <l>Theſe barb'rous Men wou'd have deſtroy'd our Swain.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>A ſecret Horror doth <hi>my body</hi> ſeize,</l>
+               <l>And <hi>my cold blood</hi> within <hi>my Veins</hi> does freeze:</l>
+               <l>Black was the <hi>Deed!</hi> Inhumane the <hi>Deſign!</hi>
+               </l>
+               <l>When 'gainſt our Flocks Men did with Hell combine;</l>
+               <l>Nay, did <hi>they</hi> think to kill the <hi>righteous Pan,</hi>
+               </l>
+               <l>Lord of theſe Woods, and Glory of the Plain?</l>
+               <lg>
+                  <l>Infernal Wretches, what cou'd ever move,</l>
+                  <l>Your <hi>Tyger-Souls</hi> thus inclement to prove?</l>
+                  <l>What, kill that Swain whom <hi>Gods</hi> and <hi>Nymphs</hi> ſo love?</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:37823:4"/>
+               <!-- PDF PAGE 104 -->
+               <speaker>Me.</speaker>
+               <l>Th' Illuſtrious Race of <hi>Pan</hi> is known to all,</l>
+               <l>And him the Great <hi>Arcadian</hi> Prince they call:</l>
+               <l>His Deeds alone proclaim his Noble Blood,</l>
+               <l>Divine in Meen, and in his Face a God.</l>
+               <l>Where e're he moves, he kindly does diſpence</l>
+               <l>Life to the Soul, and Virtue to the Senſe.</l>
+               <l>Eaſie his Rule, when all our Kine do feed,</l>
+               <l>Without diſturbance, in the golden Mead.</l>
+               <l>Still as the Sun withdraws his beams of Light,</l>
+               <l>And Day reſigns his Empire to the Night:</l>
+               <lg>
+                  <l>Unto the Fold his Sheep <hi>Comatas</hi> drives,</l>
+                  <l>And Merry Bees go loaded to their Hives,</l>
+                  <l>With Honey dropping from their tender thighs.</l>
+               </lg>
+               <l>Product of Bliſs! the Dam preſerves her Fawn,</l>
+               <l>And Love exerts his Pow'r in ev'ry Lawn.</l>
+               <l>Here, under <hi>Pan,</hi> we reſt ſecure from Noiſe,</l>
+               <l>And Swains with Nymphs prolong their lives in joys.</l>
+               <l>What in theſe happy times cou'd Men diſpleaſe,</l>
+               <l>Did they Rebel, as bleſs'd with too much Eaſe?</l>
+               <l>To think to murder <hi>Pan,</hi> it was ſo baſe,</l>
+               <l>That time it ſelf can ne're the Fact eraſe.</l>
+               <l>
+                  <pb n="7" facs="tcp:37823:4"/>
+                  <!-- PDF PAGE 104 -->
+Wild Horror all the Plain does ſpread around,</l>
+               <l>And Kids with Grief, lie trembling on the ground:</l>
+               <l>Look, <hi>Daphnis,</hi> on that <hi>Lamb,</hi> its <hi>Legs</hi> how ſmall!</l>
+               <l>And yonder Goat, as vex'd, kicks down the Pail.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>
+                  <hi>Menalcas,</hi> now thy charming tongue ſurceaſe,</l>
+               <l>And <hi>Juno,</hi> to my lab'ring breaſt give eaſe.</l>
+               <l>On that curs'd Day, ſure <hi>Phaebus</hi> will not riſe,</l>
+               <l>To drive his Chariot thro' the Eaſtern Skies;</l>
+               <l>But all the Heav'ns will Dark and gloomy be,</l>
+               <l>E're yet dim <hi>Chaos</hi> did begin to ſee.</l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <l>Then, tender Swain, let's walk to yonder ſhade,</l>
+               <l>Where <hi>Battus</hi> Pip'd unto the <hi>Spartan</hi> Maid:</l>
+               <l>Or let us now remove to yonder Grove,</l>
+               <l>Where <hi>Venus</hi> us'd to toy and ſport with <hi>Love:</hi>
+               </l>
+               <l>
+                  <hi>Tuning my Layes,</hi> under an Oak I'le <hi>ſing,</hi>
+               </l>
+               <l>The Nobleſt of the <hi>Swains,</hi> a <hi>Godlike King.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Nature in ev'ry Dreſs appears ſerene,</l>
+               <l>
+                  <hi>Sweet</hi> are the Flow'rs, and <hi>charming</hi> is the <hi>Green.</hi>
+               </l>
+               <l>Than in this <hi>Grove,</hi> not things more peaceful were,</l>
+               <l>When firſt the World became the Tillers Care:</l>
+               <l>Here in this ſhade, the <hi>Birds</hi> and <hi>Springs</hi> conſpire,</l>
+               <l>To warm thy thought, and raiſe the Muſes fire.</l>
+               <l>
+                  <pb n="8" facs="tcp:37823:5"/>
+                  <!-- PDF PAGE 105 -->
+Tune then thy charming Layes, begin thy Song,</l>
+               <l>My liftning Ear depends upon thy <hi>Tongue.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <l>O Pow'r Divine! aſſiſt me whilſt I <hi>ſing,</hi>
+               </l>
+               <l>A Royal <hi>Hero,</hi> and a <hi>Godlike King.</hi>
+               </l>
+               <l>Here, in the bleſs'd <hi>Arcadian</hi> Land, doth flow,</l>
+               <l>What Heav'n in <hi>Canaan</hi> did on Man beſtow.</l>
+               <l>Honey and Milk we in abundance have,</l>
+               <l>Laviſh of Natures gifts, yet none can ſave.</l>
+               <l>Of every thing an affluence here is,</l>
+               <l>That either charms the Eye, or raiſes Bliſs.</l>
+               <l>The Goddeſs <hi>Ceres,</hi> here, doth ſhew her Face,</l>
+               <l>And with her Preſence, all our Fields does grace.</l>
+               <lg>
+                  <l>Woman, Mankind's Delight, and Heaven's chief care,</l>
+                  <l>Than in <hi>Arcadia,</hi> there are none more fair,</l>
+                  <l>Divine their Necks, and lovely is their Hair.</l>
+               </lg>
+               <l>Streams of freſh Pleaſures, w' in <hi>Arcadia</hi> had,</l>
+               <l>Nor cou'd we ought diſtinguiſh here was bad,</l>
+               <lg>
+                  <l>Nature did all her Beauteous Charmes diſplay,</l>
+                  <l>Still was the Night, ſerene the blisful Day,</l>
+                  <l>While we on Moſſy Bank ſupinely lay.</l>
+               </lg>
+               <l>Yet, ah! too ſoon this happy ſcene withdrew,</l>
+               <l>And Prieſts did all our former woes renew;</l>
+               <l>For then upon the Throne a King did ſit,</l>
+               <l>Not one to Rule, much leſs three Kingdoms fit.</l>
+               <l>
+                  <pb n="9" facs="tcp:37823:5"/>
+                  <!-- PDF PAGE 105 -->
+A Prince fond in belief, of little fire,</l>
+               <l>Perverſe in Will, impetuous in deſire:</l>
+               <l>He vainly thought the Scriptures to traduce,</l>
+               <l>And hop'd by<note n="*" place="margin">Romiſh Prieſts.</note> Fools, the Learned to ſeduce.</l>
+               <l>This zealous King, ſo ill the Scepter ſway'd,</l>
+               <l>That with <hi>good will,</hi> he was by few obey'd:</l>
+               <l>The people all uneaſie with his Yoke,</l>
+               <l>To their Aſſiſtance, <hi>Venus</hi> did invoke,</l>
+               <l>And pray'd ſhe wou'd the <hi>great Aeneas</hi> ſend,</l>
+               <l>That ſo by him their miſeries might end.</l>
+               <l>
+                  <hi>Aeneas</hi> was a Prince of Heav'nly Birth,</l>
+               <l>Like other Men, not form'd of Vulgar Earth,</l>
+               <l>Sprung from the Gods; the ſeed this <hi>Hero</hi> made,</l>
+               <l>Was ſuch as that, when <hi>Jove</hi> with <hi>Leda</hi> laid.</l>
+               <l>To either Pole is known <hi>Aeneas</hi> Fame,</l>
+               <l>And all his mighty Deeds, his looks proclaim.</l>
+               <lg>
+                  <l>Survey the <hi>Hero,</hi> as he paſſes there,</l>
+                  <l>Squadrons, Battalions in his face appear,</l>
+                  <l>Serene his Brow, and Godlike is his Are.</l>
+               </lg>
+               <l>At our troubles much the pious Prince did grieve,</l>
+               <l>He ſaw our Dangers, and he brought Relief.</l>
+               <l>When the <hi>good Prince</hi> now ſacrifice had done,</l>
+               <l>And <hi>Venus</hi> gave her bleſſing to her Son;</l>
+               <l>The Weather fair, and proſperous the Gale,</l>
+               <l>Pious <hi>Aeneas</hi> with his Fleet ſet ſail.</l>
+               <l>Scarce had he got three leagues from off the ſhore,</l>
+               <l>E're ſtormy billows did begin to roar.</l>
+               <l>
+                  <pb n="10" facs="tcp:37823:6"/>
+                  <!-- PDF PAGE 106 -->
+By vaulted Waves, ſo high the ſhips were toſt,</l>
+               <l>That they, amidſt the Clouds, all ſeem'd as loſt;</l>
+               <l>Then from an high, with force they <hi>plung'd again,</hi>
+               </l>
+               <l>Breaking the <hi>Surges,</hi> as they croſt the Main.</l>
+               <l>The <hi>Sea-ſick Prince,</hi> on land by tempeſts caſt,</l>
+               <l>Whoſe Mind's as Noble as his Soul is vaſt!</l>
+               <l>The Prieſts ſeem'd doubtful of the <hi>great Event,</hi>
+               </l>
+               <l>And <hi>judg'd theſe ſigns,</hi> as evil Omens ſent.</l>
+               <l>
+                  <hi>Aeneas</hi> more knowing yet, in Heav'ns Will,</l>
+               <l>Gently rebuk'd them, for their weaker skill.</l>
+               <l>In Juſt Diſdain he put <hi>again to Sea,</hi>
+               </l>
+               <l>With full-ſpread ſails, <hi>through ſtorms he urg'd his way.</hi>
+               </l>
+               <l>When to th' <hi>Arcadian</hi> Coaſt the Prince arriv'd,</l>
+               <l>He was by all with Love and Joy receiv'd.</l>
+               <lg>
+                  <l>Not by <hi>Aeneas ſought,</hi> a Crown they <hi>gave,</hi>
+                  </l>
+                  <l>For with his preſence, he their lives did ſave,</l>
+                  <l>And ſtopt th' impending terrors of the Grave.</l>
+               </lg>
+               <l>Nobly to aſſert our liberties he came,</l>
+               <l>Whilſt envious Monarchs trembled at his Name.</l>
+               <l>Form'd in an Heavenly Mould this <hi>Hero</hi> was,</l>
+               <l>His wondrous Deeds! the Poets Heads ſurpaſs.</l>
+               <l>If on his ſide the <hi>largeſt Troops</hi> are ſlain,</l>
+               <l>His <hi>ſingle Perſon</hi> can a <hi>Victory gain.</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:37823:6"/>
+                  <!-- PDF PAGE 106 -->
+This <hi>Genius</hi> of the World, to all <hi>gives light,</hi>
+               </l>
+               <l>And with <hi>amazing luſtre</hi> ſtrikes the <hi>ſight.</hi>
+               </l>
+               <l>
+                  <hi>Pompey</hi> and <hi>Caeſar</hi> were mean Men to thee,</l>
+               <l>For from the <hi>Gods</hi> thou claim'ſt thy <hi>Pedigree.</hi>
+               </l>
+               <l>In Battle none ſo brave, in Council wiſe,</l>
+               <l>Thunder i'ths Arms, and <hi>Lightning</hi> in his Eyes.</l>
+               <l>From his bleſt lips a word ne're ſlipt away,</l>
+               <l>But what chaſte Nuns might at the Altar ſay.</l>
+               <l>Mild is his Voice, his Geſtures all Divine,</l>
+               <l>In him the <hi>Hero,</hi> and the <hi>God</hi> do joyn.</l>
+               <l>Good to exceſs! to all of Mercy free,</l>
+               <l>As <hi>Aiax</hi> bold, but full of lenity.</l>
+               <l>Againſt a Prince ſo brave, ſo good as this!</l>
+               <l>Who cou'd e're think, or act, or ſpeak amiſs?</l>
+               <l>Yet, ah! when Swains and Nymphs ne're dreamt of harm'</l>
+               <l>But with a mutual heat their breaſts did warm,</l>
+               <lg>
+                  <l>When in each others Arms they kindled fire,</l>
+                  <l>Fanning the Embers that increas'd deſire,</l>
+                  <l>Till eager Love did in ſoft Flame expire!</l>
+               </lg>
+               <l>When Lambs unto their Evening-Watrings went,</l>
+               <l>Still as the<note n="*" place="margin">Evening-Star.</note> 
+                  <hi>Meſſenger of Night</hi> was ſent:</l>
+               <lg>
+                  <l>When all our Herds from danger free, they fed,</l>
+                  <l>As we ſecurely ſlept on Verdant Bed,</l>
+                  <l>And Peace thro' every Vale and Grove was ſpread,</l>
+               </lg>
+               <lg>
+                  <pb n="12" facs="tcp:37823:7"/>
+                  <!-- PDF PAGE 107 -->
+                  <l>Men in <hi>Tartarian</hi> Works, o'th' deepeſt skill,</l>
+                  <l>Treacherouſly meant our Royal <hi>Pan</hi> to kill,</l>
+                  <l>And ſacred Blood on curſed Ground to ſpill.</l>
+               </lg>
+               <l>Ah me! how fatal wou'd the ſtroke have been,</l>
+               <l>If Swains their Shepherd ſhou'd no more have ſeen!</l>
+               <l>The Birds with Grief would then forbear to ſing,</l>
+               <l>Flowers wou'd fade, and Lambs neglect the ſpring.</l>
+               <l>Confuſion then in e'ry part would Reign,</l>
+               <l>Diſmal the Groves, and Deſart all the Plain;</l>
+               <l>The wideſt Rivers would to Riv'lets turn,</l>
+               <l>And ev'ry Nymph like <hi>Niobe</hi> wou'd mourn.</l>
+               <l>
+                  <hi>Blest Pow'r!</hi> in whom we now ſurvive this Plot,</l>
+               <l>
+                  <hi>By us</hi> may ne're thy <hi>goodneſs be forgot:</hi>
+               </l>
+               <l>Teach us how we thy Godhead ſhou'd invoke,</l>
+               <l>As with pure Incenſe all our Altars ſmoke.</l>
+               <l>More glorious times than theſe were never known,</l>
+               <l>For none but <hi>Heroes</hi> can adorn a Throne.</l>
+               <l>Then the <hi>bright Steeds</hi> of Day approach'd the <hi>West,</hi>
+               </l>
+               <l>And both theſe Swains compos'd their <hi>thoughts</hi> to reſt.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>AN Eſſay upon <hi>Paſtoral,</hi> as alſo an <hi>Elegy</hi> Dedicated to the ever Bleſſed Memory of Her moſt Serene Majeſty, <hi>MARY</hi> II. late Queen of <hi>England,</hi> by the ſame Author, is to be Sold by <hi>Ralph Simpſon</hi> at the ſign of the <hi>Harp</hi> in St. <hi>Paul's</hi> Church-yard.</p>
+            <pb facs="tcp:37823:7"/>
+            <!-- PDF PAGE 107 -->
+         </div>
+      </back>
+   </text>
+</TEI>
